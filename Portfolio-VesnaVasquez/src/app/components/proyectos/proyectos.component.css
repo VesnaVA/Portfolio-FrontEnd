@@ -1,0 +1,19 @@
+.row{
+    padding: 30px;
+    background-color: rgb(45, 3, 52);
+}
+.contenedor{
+    width: auto;
+    display: flex;
+    text-align: center;
+}
+.parte1, .parte2{
+    display: inline-block;
+}
+.foto-portfolio{
+    box-shadow: 15px 15px 30px black;
+}
+.foto-portfolio img{
+    width: 30%;
+    height: 20px;
+}

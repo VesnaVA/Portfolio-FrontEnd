@@ -1,0 +1,23 @@
+.row{
+    padding: 40px;
+    display: flex;
+}
+div{
+    background-color: rgb(60, 6, 64);
+    text-align:center;
+    
+}
+
+#nombre{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+#titulo{
+    font-size: 30px;
+}
+
+

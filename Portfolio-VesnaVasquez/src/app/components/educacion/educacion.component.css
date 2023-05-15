@@ -1,0 +1,20 @@
+.row{
+    padding: 30px;
+    color: antiquewhite;;
+}
+div{
+    background-color: rgb(45, 3, 52);
+}
+h2,h3{
+    display: inline;
+}
+.logo-ArgProg{
+    width: 200px;
+}
+.estudios{
+    display: flex;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
