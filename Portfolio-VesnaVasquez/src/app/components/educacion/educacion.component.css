@@ -1,5 +1,5 @@
 .row{
-    padding: 30px;
+    padding: 50px;
     color: antiquewhite;;
 }
 div{
@@ -17,4 +17,7 @@ h2,h3{
 }
 ul{
     list-style-type: none;
+}
+.circulo{
+    border-radius: 50%;
 }

@@ -1,11 +1,10 @@
 div{
+    
+    padding: 10px;
     background-color: rgb(95, 7, 117);
 }
-app-redes-sociales{
-    float: right;
-    margin-top: 25px;
-}
+
 app-logo-arg-prog{
-    margin-top: 25px;
+    margin-top: 5px;
     margin-left: 25px;
 }
